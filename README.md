@@ -1,1 +1,2 @@
-# -Income-Tax-and-EMI-Calculator-
+# Tax-Calculator
+Android App to Calculate Income Tax and EMI
